@@ -1,0 +1,20 @@
+
+sbt eclipse plugin: https://github.com/sbt/sbteclipse
+
+scala plugin for eclipe/:
+http://scala-ide.org/download/current.html
+
+
+help --> installnew software---> below link
+http://download.scala-ide.org/sdk/lithium/e47/scala212/stable/site
+
+
+select ---> scala ide for eclipse
+
+
+
+sbt
+reload
+eclipse
+update
+clean
