@@ -1,0 +1,30 @@
+:quit
+sc
+reload
+eclipse
+reload
+eclipse
+reload
+sbt
+reload
+eclipse
+reload
+sbt
+reload
+update
+reload
+clean
+sbt
+update
+reload
+compile
+sbt run
+eclipse
+reload
+eclipse
+package
+reload
+sbt run SimpleApp
+clean
+reload
+eclipse
